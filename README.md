@@ -1,5 +1,9 @@
 # IOT - Internet  Of Things 
 
+### Board used 
+
+FRDM-KL25Z
+
 
 ### Developer 
 
