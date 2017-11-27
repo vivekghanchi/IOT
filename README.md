@@ -17,7 +17,7 @@ FRDM-KL25Z
 - ADC (16 bit)
 - DAC (1x 12bit)
 - Touch Sensor
-GPIO (66)
+- GPIO (66)
 
 
 
