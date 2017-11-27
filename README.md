@@ -15,7 +15,7 @@ FRDM-KL25Z
 - UART (3)
 - PWM (TPM)
 - ADC (16 bit)
-DAC (1x 12bit)
+- DAC (1x 12bit)
 Touch Sensor
 GPIO (66)
 
