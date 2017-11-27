@@ -8,7 +8,7 @@ FRDM-KL25Z
 
 1.NXP KL25Z Kinetis KL2x MCU (MKL25Z128VLK4)
 - High performance ARM® Cortex™-M0+ Core
-48MHz, 16KB RAM, 128KB FLASH
+- 48MHz, 16KB RAM, 128KB FLASH
 USB (Host/Device)
 SPI (2)
 I2C (2)
