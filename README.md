@@ -4,6 +4,10 @@
 
 FRDM-KL25Z
 
+### Features of FRDM-KL25Z
+
+
+
 
 
 ### Developer 
