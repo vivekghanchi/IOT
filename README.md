@@ -12,7 +12,7 @@ FRDM-KL25Z
 - USB (Host/Device)
 - SPI (2)
 - I2C (2)
-UART (3)
+- UART (3)
 PWM (TPM)
 ADC (16 bit)
 DAC (1x 12bit)
