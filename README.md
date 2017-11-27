@@ -13,7 +13,7 @@ FRDM-KL25Z
 - SPI (2)
 - I2C (2)
 - UART (3)
-PWM (TPM)
+- PWM (TPM)
 ADC (16 bit)
 DAC (1x 12bit)
 Touch Sensor
