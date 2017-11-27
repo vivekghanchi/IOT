@@ -10,7 +10,7 @@ FRDM-KL25Z
 - High performance ARM® Cortex™-M0+ Core
 - 48MHz, 16KB RAM, 128KB FLASH
 - USB (Host/Device)
-SPI (2)
+- SPI (2)
 I2C (2)
 UART (3)
 PWM (TPM)
